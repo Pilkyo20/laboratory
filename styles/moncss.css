@@ -1,0 +1,74 @@
+header {
+	background-image:url('../images/header/cinema.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+	height: 220px;
+}
+
+div {
+	max-width: 50%;
+	margin: auto;
+
+}
+
+body {
+	background-color: #17202A;
+	color: #D6EAF8;
+	font-family: 'Playfair Display', serif;
+	
+}
+
+h1 {
+	font-family: 'Architects Daughter', cursive;
+	text-align: center;
+	opacity: 0.7;
+	padding-top: 50px;
+}
+
+th {
+	text-align: justify;
+	padding: 20px 10px;
+}
+
+.center {
+	text-align: center;
+}
+.left {
+	text-align: left;
+}
+.right {
+	text-align: right;
+}
+.Navigation-All {
+	margin-right: auto;
+	margin-left: auto;
+	width: 45%;
+
+}
+.Navigation {
+	min-width: 15%;
+	color: #AED6F1;
+}
+.Film {
+	background-color: #1B2631;
+	border-color: #5DADE2;
+	border: solid 1px;
+	max-width: 50%;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 30px 20px;
+}
+a:link {
+	/* Lien non visité */
+	color: #AED6F1;
+}
+a:visited {
+	/* Lien visité */
+	color: #F39C12;
+}
+a:hover {
+	/* Lien survolé */
+	color: #F39C12;
+}
